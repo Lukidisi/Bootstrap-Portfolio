@@ -1,3 +1,5 @@
+/* will go back and add an @media tag for index.html and other things for portfolio and contact */
+
 body {
     font-size: 18px;
     line-height: 34px;
@@ -19,7 +21,7 @@ body {
     border-style: solid none none none;
     border-top-color: #4aaaa5;
     border-width: 8px;
-    text-align: center
+    text-align: center;
 }
 
 #indexH1 {
@@ -30,4 +32,13 @@ body {
     color: #4aaaa5;
     font-weight: bold;
 
+}
+
+#indexAnchors {
+    vertical-align: top;
+    margin-left: 50px;
+}
+
+#navbar{
+    background-color: #ffffff;
 }
