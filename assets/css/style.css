@@ -1,0 +1,33 @@
+body {
+    font-size: 18px;
+    line-height: 34px;
+    color: #777777;
+    background-image: url("../images/background_img.jpg");
+    margin: 0;
+}
+
+#bio {
+    background-color: #ffffff;
+}
+
+#footer {
+    background-color: #666666;
+    clear: both;
+    font-family: "Arial";
+    font-size: 20px;
+    color: #ffffff;
+    border-style: solid none none none;
+    border-top-color: #4aaaa5;
+    border-width: 8px;
+    text-align: center
+}
+
+#indexH1 {
+    border-style: none none solid none;
+    border-bottom-color: #777777;
+    font-family: 'Arial';
+    font-size: 32px;
+    color: #4aaaa5;
+    font-weight: bold;
+
+}
